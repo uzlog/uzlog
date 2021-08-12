@@ -67,7 +67,7 @@
     <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+     <a href="#"><img alt="React" src="https://img.shields.io/badge/Redux-593D88?&logo=redux&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
@@ -81,8 +81,8 @@
     <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-    <a href="#"><img="Mariadb" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></a>
-    <a href="#"><img="ElasticSearch" src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"></a>
+    <a href="#"><img="Mariadb" src="https://img.shields.io/badge/MariaDB-003545?&logo=mariadb&logoColor=white"></a>
+    <a href="#"><img="ElasticSearch" src="https://img.shields.io/badge/Elastic_Search-005571?&logo=elasticsearch&logoColor=white"></a>
 </p>
 
 ### 💻 Software and tools
