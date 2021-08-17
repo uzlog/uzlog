@@ -81,8 +81,8 @@
     <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-    <a href="#"><img="Mariadb" src="https://img.shields.io/badge/MariaDB-003545?&logo=mariadb&logoColor=white"></a>
-    <a href="#"><img="ElasticSearch" src="https://img.shields.io/badge/Elastic_Search-005571?&logo=elasticsearch&logoColor=white"></a>
+    <a href="#"><img alt="Mariadb" src="https://img.shields.io/badge/MariaDB-003545?&logo=mariadb&logoColor=white"></a>
+    <a href="#"><img alt="ElasticSearch" src="https://img.shields.io/badge/Elastic_Search-005571?&logo=elasticsearch&logoColor=white"></a>
 </p>
 
 ### 💻 Software and tools
