@@ -34,7 +34,6 @@
   <a href="https://github.com/franky-0841/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Franky-0841's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=franky-0841&theme=monokai-metallian&hide_border=true"/>
   </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
 ## 🛠️ My favorite tools
