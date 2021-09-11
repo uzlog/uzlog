@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/franky-0841/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/uzlog/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
     <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UCipSxT7a3rn81vGLw9lqRkg?color=%23E1AD0E&logo=youtube&style=for-the-badge&labelColor=C79600"/></a> 
   <a href="https://twitter.com/ruslanablyamitov1">
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/DenverCoder1?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/franky-0841">
+  <a href="https://github.com/uzlog">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 
@@ -29,7 +29,7 @@
 ## 🔥 Streak stats
 
 <p align="center">
-  <a href="https://github.com/franky-0841/github-readme-streak-stats">
+  <a href="https://github.com/uzlog/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Franky-0841's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=franky-0841&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
