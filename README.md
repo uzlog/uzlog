@@ -18,13 +18,6 @@
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 
-## 🙋‍♂️ Connect with me
-
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCxMHxQ8V-gO9B2LbirrKu2g"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://twitter.com/ruslanablyamitov1"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-
-</p>
 
 ## 🔥 Streak stats
 
