@@ -20,10 +20,9 @@
 
 
 ## 🔥 Streak stats
-
 <p align="center">
   <a href="https://github.com/uzlog/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="uzlog's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=uzlog&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="uzlog's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=uzlog&theme=neon-dark&background=000000&stroke=FFBE00&ring=FFCF00&fire=FFCF00&currStreakNum=FFAE02&sideNums=FFB600&currStreakLabel=FFB600&sideLabels=FFCF00&dates=9F5D03&border=000000"/>
   </a>
 </p>
 
@@ -95,6 +94,6 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="uzlog's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=uzlog&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="uzlog's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=uzlog&show_icons=true&theme=maroongold&bg_color=15,000000,000000,000000,F0A500,000000&icon_color=F0A500&title_color=F9B208&border_color=F9B208&custom_title=Franky" height="192px"/></a>
   <br/>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="uzlog's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=uzlog&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
